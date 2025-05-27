@@ -68,3 +68,5 @@ GitHub Documentation
 Maintained all project files in a GitHub repository for easy access and version control.
 
 Included a README file to document the steps and explain project implementation
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/d0d66905-1ebe-4603-b935-ae14ccb78c25)
